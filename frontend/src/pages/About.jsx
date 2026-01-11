@@ -7,7 +7,7 @@ function About() {
     <div className="app">
       <section className="page-hero">
         <div className="page-hero-content">
-          <h1 className="page-title">About Food Waste Tracker</h1>
+          <h1 className="page-title">About Foodprint</h1>
           <p className="page-subtitle">
             Empowering individuals to reduce food waste and create a sustainable future
           </p>
@@ -20,13 +20,13 @@ function About() {
             <div className="about-section">
               <h2 className="section-title">Our Mission</h2>
               <p className="about-text">
-                Food Waste Tracker is dedicated to helping individuals and communities reduce food waste 
-                through awareness and tracking. We believe that by understanding our consumption patterns, 
+                Foodprint is dedicated to helping individuals and communities reduce food waste 
+                through awareness and tracking. By understanding our consumption patterns, 
                 we can make informed decisions that benefit both our wallets and the environment.
               </p>
               <p className="about-text">
                 Every year, billions of tons of food are wasted globally, contributing to greenhouse gas 
-                emissions and wasting precious resources. Our platform makes it easy to track, understand, 
+                emissions and wasting resources. Foodprint makes it easy to track, understand, 
                 and reduce food waste in your daily life.
               </p>
             </div>
@@ -39,12 +39,12 @@ function About() {
                   <div className="stat-box-label">Tons of food wasted globally each year</div>
                 </div>
                 <div className="stat-box">
-                  <div className="stat-box-number">8%</div>
-                  <div className="stat-box-label">Of global greenhouse gas emissions</div>
+                  <div className="stat-box-number">46%</div>
+                  <div className="stat-box-label">Of Canadian food is wasted</div>
                 </div>
                 <div className="stat-box">
-                  <div className="stat-box-number">$1T</div>
-                  <div className="stat-box-label">Economic cost of food waste annually</div>
+                  <div className="stat-box-number">$58B</div>
+                  <div className="stat-box-label">Economic cost of Canadian food waste annually</div>
                 </div>
               </div>
             </div>
@@ -66,7 +66,7 @@ function About() {
                   <div className="feature-content">
                     <h3 className="feature-title">Visual Analytics</h3>
                     <p className="feature-description">
-                      See your waste patterns through detailed breakdowns and awareness scores.
+                      See your Foodprint through detailed breakdowns and awareness scores.
                     </p>
                   </div>
                 </div>
@@ -108,7 +108,7 @@ function About() {
             <div className="cta-section">
               <h2 className="section-title">Ready to Get Started?</h2>
               <p className="cta-text">
-                Start tracking your food waste today and make a positive impact on the environment.
+                Start tracking your food waste today and make an impact.
               </p>
               <Link to="/" className="cta-button">Start Tracking Now</Link>
             </div>
